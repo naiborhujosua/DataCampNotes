@@ -27,3 +27,5 @@ A compilation of all my Data Science notes
 | Folder                                  | Description                                     |
 | --------------------------------------- | ----------------------------------------------- |                
 | [SQL](https://github.com/naiborhujosua/PostgreSQLNotes)                             | SQL notes from DataCamp                         |
+| [PySpark](https://github.com/naiborhujosua/Machine-Learning-with-pyspark)                             | PySpark notes from DataCamp                         |
+| [Data Science concepts](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop)                             | Data Science concepts from Packt                         |
