@@ -26,6 +26,4 @@ A compilation of all my Data Science notes
 
 | Folder                                  | Description                                     |
 | --------------------------------------- | ----------------------------------------------- |                
-| [Statistics Probability](/Python)       | Statistics and Probabilty Implementation        |
-| [Miscellaneous](/Miscellaneous)         | Non-CS Articles, Summaries, etc.                |
 | [SQL](/SQL)                             | SQL notes from DataCamp                         |
