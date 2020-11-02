@@ -26,4 +26,4 @@ A compilation of all my Data Science notes
 
 | Folder                                  | Description                                     |
 | --------------------------------------- | ----------------------------------------------- |                
-| [SQL](/SQL)                             | SQL notes from DataCamp                         |
+| [SQL](https://github.com/naiborhujosua/PostgreSQLNotes)                             | SQL notes from DataCamp                         |
